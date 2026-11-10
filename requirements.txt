@@ -1,0 +1,6 @@
+streamlit>=1.40,<2.0
+Pillow>=10.0,<13.0
+pydantic>=2.7,<3.0
+gnani-vachana
+# Optional OCR: install pytesseract and the Tesseract OCR system application separately.
+# pytesseract>=0.3.10
